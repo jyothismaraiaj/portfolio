@@ -34,7 +34,7 @@
 - Gained proficiency in HPC systems through molecular dynamics simulations using GROMACS.  
 - Conducted performance analysis (parallel scaling and convergence) of pi estimation using Open MPI.  
 - Visualized HPC node usage and daily job queues using time series plots.  
-- Developed an algorithm to generate an availability matrix for unused nodes.  
+- Assisting in developing an algorithm to generate an availability matrix for unused nodes.  
 - Created panel plots to illustrate available nodes based on resource utilization.  
 - Optimized the algorithm runtime from nearly 40 minutes to 5 seconds by implementing computationally intensive components in C++ using Rcpp, improving performance and scalability.
 
